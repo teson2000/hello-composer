@@ -3,6 +3,7 @@
     "description": "Testing composer psr4 style",
     "type": "library",
     "license": "mit",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Teson2000\\HelloComposer\\": "src/"
