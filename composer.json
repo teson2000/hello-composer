@@ -1,7 +1,7 @@
 {
     "name": "teson2000/hello-composer",
     "description": "Testing composer psr4 style",
-    "type": "project",
+    "type": "library",
     "license": "mit",
     "autoload": {
         "psr-4": {
