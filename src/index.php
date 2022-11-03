@@ -1,6 +1,6 @@
 <?php 
 
-namespace teson2000\HelloWorld;
+namespace HelloWorld;
 
 class Index
 {
