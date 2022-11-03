@@ -6,7 +6,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Teson2000\\HelloComposer\\": "src/"
+            "HelloComposer\\": "src/HelloComposer"
         }
     },
     "authors": [
